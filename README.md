@@ -11,19 +11,24 @@ L'aplication permet également de recevoir une notification grâce à firebase .
 
 # SCREEN APP
 
-Home Page
+### Home Page ###
+
 ![alt text](https://github.com/bniakate/AppNBA/blob/master/app/src/main/res/drawable/img1.jpg?raw=true)
 
-App Icon
+### App Icon ###
+
 ![alt text](https://github.com/bniakate/AppNBA/blob/master/app/src/main/res/drawable/img2.jpg?raw=true)
 
-Detail page
+### Detail page ###
+
 ![alt text](https://github.com/bniakate/AppNBA/blob/master/app/src/main/res/drawable/img3.jpg?raw=true)
 
-Notification firebase
+### Notification firebase ###
+
 ![alt text](https://github.com/bniakate/AppNBA/blob/master/app/src/main/res/drawable/img4.jpg?raw=true)
 
 ![alt text](https://github.com/bniakate/AppNBA/blob/master/app/src/main/res/drawable/img5.jpg?raw=true)
 
-ProgressBar
+### ProgressBar ###
+
 ![alt text](https://github.com/bniakate/AppNBA/blob/master/app/src/main/res/drawable/img6.jpg?raw=true)
