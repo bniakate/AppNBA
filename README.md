@@ -10,3 +10,5 @@ Chaque équipe est affiché grâce à une RecyclerView et les données sont stoc
 L'aplication permet également de recevoir une notification grâce à firebase .
 
 #SCREEN APP
+
+![alt text](https://github.com/bniakate/AppNBA/blob/master/app/src/main/res/drawable/img1.jpg?raw=true)
